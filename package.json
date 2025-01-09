@@ -2,9 +2,9 @@
   "name": "node-express-mongodb-app",
   "version": "1.0.0",
   "description": "A Node.js app with Express and MongoDB integration",
-  "main": "backend.cjs",
+  "main": "Backend.cjs",
   "scripts": {
-    "start": "node backend.cjs"
+    "start": "node Backend.cjs"
   },
   "author": "",
   "license": "ISC",
