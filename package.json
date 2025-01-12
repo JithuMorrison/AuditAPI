@@ -6,10 +6,6 @@
   "scripts": {
     "start": "node Backend.cjs"
   },
-  "repository": {
-  "type": "git",
-  "url": ""
-  },
   "author": "",
   "license": "ISC",
   "homepage": "",
